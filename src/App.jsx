@@ -137,7 +137,14 @@ export default function Home() {
               maxWidth: "300px",
             }}
           >
-            <p style={{ fontSize: "20px", fontWeight: "bold", color: "#333" }}>
+            <p
+              style={{
+                fontSize: "20px",
+                fontFamily: "Arial, sans-serif",
+                fontWeight: "bold",
+                color: "#333",
+              }}
+            >
               We Know about it 🙂
             </p>
             <button
