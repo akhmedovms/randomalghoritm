@@ -138,7 +138,7 @@ export default function Home() {
             }}
           >
             <p style={{ fontSize: "20px", fontWeight: "bold", color: "#333" }}>
-              I KNEW IT 😂
+              We Know about it 🙂
             </p>
             <button
               onClick={handleCloseMessage}
